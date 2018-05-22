@@ -1,1 +1,1 @@
-# zadanie_15_5
+# Refactoring-React-Gifs-to-use-promise
